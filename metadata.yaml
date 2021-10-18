@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-3-De-Ridderordendiefstal-in-het-Koninklijk-Paleis_66352
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Blankensee, Theo von
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40698
     wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66352#Lord-Lister-No-3-De-Ridderordendiefstal-in-het-Koninklijk-Paleis
 gutenberg_issued: '2021-09-20'
 identifiers:
   gutenberg: '66352'
